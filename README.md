@@ -1,2 +1,2 @@
-Python Basis
+Python Game
 Xiaoyan Liu
